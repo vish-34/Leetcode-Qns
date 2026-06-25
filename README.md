@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vish-34/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vish-34/Leetcode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/vish-34/Leetcode-Qns/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/vish-34/Leetcode-Qns/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vish-34/Leetcode-Qns/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vish-34/Leetcode-Qns/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/vish-34/Leetcode-Qns/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
