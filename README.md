@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vish-34/Leetcode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/vish-34/Leetcode-Qns/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0217-contains-duplicate](https://github.com/vish-34/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vish-34/Leetcode-Qns/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vish-34/Leetcode-Qns/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/vish-34/Leetcode-Qns/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vish-34/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vish-34/Leetcode-Qns/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/vish-34/Leetcode-Qns/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/vish-34/Leetcode-Qns/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vish-34/Leetcode-Qns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
 |  |
@@ -76,6 +79,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vish-34/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/vish-34/Leetcode-Qns/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vish-34/Leetcode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vish-34/Leetcode-Qns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
