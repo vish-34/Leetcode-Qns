@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/vish-34/Leetcode-Qns/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/vish-34/Leetcode-Qns/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vish-34/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vish-34/Leetcode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -23,6 +24,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vish-34/Leetcode-Qns/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vish-34/Leetcode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/vish-34/Leetcode-Qns/tree/master/0704-binary-search) |
