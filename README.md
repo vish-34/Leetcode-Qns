@@ -19,6 +19,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/vish-34/Leetcode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vish-34/Leetcode-Qns/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vish-34/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vish-34/Leetcode-Qns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/vish-34/Leetcode-Qns/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vish-34/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vish-34/Leetcode-Qns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
 |  |
 | ------- |
