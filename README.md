@@ -18,6 +18,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vish-34/Leetcode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/vish-34/Leetcode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vish-34/Leetcode-Qns/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/vish-34/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vish-34/Leetcode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/vish-34/Leetcode-Qns/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/vish-34/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
