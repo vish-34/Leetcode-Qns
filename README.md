@@ -22,6 +22,7 @@
 | [0875-koko-eating-bananas](https://github.com/vish-34/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/vish-34/Leetcode-Qns/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vish-34/Leetcode-Qns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/vish-34/Leetcode-Qns/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0295-find-median-from-data-stream](https://github.com/vish-34/Leetcode-Qns/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vish-34/Leetcode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/vish-34/Leetcode-Qns/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/vish-34/Leetcode-Qns/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
