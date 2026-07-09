@@ -28,6 +28,7 @@
 | [0141-linked-list-cycle](https://github.com/vish-34/Leetcode-Qns/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vish-34/Leetcode-Qns/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vish-34/Leetcode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/vish-34/Leetcode-Qns/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/vish-34/Leetcode-Qns/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vish-34/Leetcode-Qns/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -64,6 +65,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/vish-34/Leetcode-Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vish-34/Leetcode-Qns/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vish-34/Leetcode-Qns/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/vish-34/Leetcode-Qns/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vish-34/Leetcode-Qns/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vish-34/Leetcode-Qns/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/vish-34/Leetcode-Qns/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vish-34/Leetcode-Qns/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -156,4 +159,12 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/vish-34/Leetcode-Qns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vish-34/Leetcode-Qns/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/vish-34/Leetcode-Qns/tree/master/0226-invert-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/vish-34/Leetcode-Qns/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/vish-34/Leetcode-Qns/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
