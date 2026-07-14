@@ -24,6 +24,7 @@
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/vish-34/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/vish-34/Leetcode-Qns/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/vish-34/Leetcode-Qns/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vish-34/Leetcode-Qns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/vish-34/Leetcode-Qns/tree/master/1046-last-stone-weight) |
 ## Two Pointers
@@ -168,6 +169,7 @@
 | [0226-invert-binary-tree](https://github.com/vish-34/Leetcode-Qns/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vish-34/Leetcode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/vish-34/Leetcode-Qns/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -201,4 +203,5 @@
 | [0200-number-of-islands](https://github.com/vish-34/Leetcode-Qns/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vish-34/Leetcode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/vish-34/Leetcode-Qns/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
