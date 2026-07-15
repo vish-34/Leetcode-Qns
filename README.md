@@ -20,6 +20,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vish-34/Leetcode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vish-34/Leetcode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0643-maximum-average-subarray-i](https://github.com/vish-34/Leetcode-Qns/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/vish-34/Leetcode-Qns/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/vish-34/Leetcode-Qns/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/vish-34/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
@@ -159,6 +160,7 @@
 | [0200-number-of-islands](https://github.com/vish-34/Leetcode-Qns/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vish-34/Leetcode-Qns/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vish-34/Leetcode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/vish-34/Leetcode-Qns/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -168,6 +170,7 @@
 | [0200-number-of-islands](https://github.com/vish-34/Leetcode-Qns/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/vish-34/Leetcode-Qns/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vish-34/Leetcode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/vish-34/Leetcode-Qns/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vish-34/Leetcode-Qns/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -197,11 +200,13 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vish-34/Leetcode-Qns/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/vish-34/Leetcode-Qns/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vish-34/Leetcode-Qns/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vish-34/Leetcode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/vish-34/Leetcode-Qns/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vish-34/Leetcode-Qns/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
