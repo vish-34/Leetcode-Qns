@@ -28,6 +28,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/vish-34/Leetcode-Qns/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/vish-34/Leetcode-Qns/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vish-34/Leetcode-Qns/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/vish-34/Leetcode-Qns/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/vish-34/Leetcode-Qns/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vish-34/Leetcode-Qns/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Two Pointers
@@ -165,6 +166,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/vish-34/Leetcode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/vish-34/Leetcode-Qns/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/vish-34/Leetcode-Qns/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [0695-max-area-of-island](https://github.com/vish-34/Leetcode-Qns/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vish-34/Leetcode-Qns/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/vish-34/Leetcode-Qns/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vish-34/Leetcode-Qns/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
@@ -206,6 +209,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/vish-34/Leetcode-Qns/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/vish-34/Leetcode-Qns/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/vish-34/Leetcode-Qns/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -215,5 +219,6 @@
 | [0695-max-area-of-island](https://github.com/vish-34/Leetcode-Qns/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vish-34/Leetcode-Qns/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/vish-34/Leetcode-Qns/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vish-34/Leetcode-Qns/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
