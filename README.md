@@ -33,6 +33,7 @@
 | [1020-number-of-enclaves](https://github.com/vish-34/Leetcode-Qns/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/vish-34/Leetcode-Qns/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vish-34/Leetcode-Qns/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vish-34/Leetcode-Qns/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/vish-34/Leetcode-Qns/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
 |  |
@@ -236,6 +237,7 @@
 | [0778-swim-in-rising-water](https://github.com/vish-34/Leetcode-Qns/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/vish-34/Leetcode-Qns/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vish-34/Leetcode-Qns/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vish-34/Leetcode-Qns/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/vish-34/Leetcode-Qns/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -256,8 +258,13 @@
 | [0207-course-schedule](https://github.com/vish-34/Leetcode-Qns/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/vish-34/Leetcode-Qns/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vish-34/Leetcode-Qns/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vish-34/Leetcode-Qns/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vish-34/Leetcode-Qns/tree/master/0207-course-schedule) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vish-34/Leetcode-Qns/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
