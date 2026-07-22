@@ -23,6 +23,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/vish-34/Leetcode-Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/vish-34/Leetcode-Qns/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/vish-34/Leetcode-Qns/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/vish-34/Leetcode-Qns/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/vish-34/Leetcode-Qns/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/vish-34/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
@@ -73,6 +74,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vish-34/Leetcode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/vish-34/Leetcode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vish-34/Leetcode-Qns/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/vish-34/Leetcode-Qns/tree/master/0721-accounts-merge) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0242-valid-anagram](https://github.com/vish-34/Leetcode-Qns/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/vish-34/Leetcode-Qns/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/vish-34/Leetcode-Qns/tree/master/0347-top-k-frequent-elements) |
+| [0721-accounts-merge](https://github.com/vish-34/Leetcode-Qns/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/vish-34/Leetcode-Qns/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
@@ -91,6 +94,7 @@
 | [0242-valid-anagram](https://github.com/vish-34/Leetcode-Qns/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vish-34/Leetcode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vish-34/Leetcode-Qns/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/vish-34/Leetcode-Qns/tree/master/0721-accounts-merge) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vish-34/Leetcode-Qns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
 |  |
@@ -173,6 +177,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/vish-34/Leetcode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/vish-34/Leetcode-Qns/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vish-34/Leetcode-Qns/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/vish-34/Leetcode-Qns/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/vish-34/Leetcode-Qns/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/vish-34/Leetcode-Qns/tree/master/1020-number-of-enclaves) |
@@ -190,6 +195,7 @@
 | [0542-01-matrix](https://github.com/vish-34/Leetcode-Qns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vish-34/Leetcode-Qns/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vish-34/Leetcode-Qns/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/vish-34/Leetcode-Qns/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/vish-34/Leetcode-Qns/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/vish-34/Leetcode-Qns/tree/master/0994-rotting-oranges) |
@@ -226,6 +232,7 @@
 | [0200-number-of-islands](https://github.com/vish-34/Leetcode-Qns/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vish-34/Leetcode-Qns/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vish-34/Leetcode-Qns/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/vish-34/Leetcode-Qns/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/vish-34/Leetcode-Qns/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/vish-34/Leetcode-Qns/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vish-34/Leetcode-Qns/tree/master/1319-number-of-operations-to-make-network-connected) |
