@@ -1,71 +1,45 @@
 class Solution {
 public:
-vector<int> parent, rank;
-
-    int find(int x) {
-        if (parent[x] != x)
-            parent[x] = find(parent[x]);
-        return parent[x];
-    }
-
-    bool Union(int x, int y) {
-        int px = find(x);
-        int py = find(y);
-
-        if (px == py)
-            return false;
-
-        if (rank[px] > rank[py]) {
-            parent[py] = px;
-        }
-        else if (rank[px] < rank[py]) {
-            parent[px] = py;
-        }
-        else {
-            parent[py] = px;
-            rank[px]++;
-        }
-
-        return true;
-    }
     int minCostConnectPoints(vector<vector<int>>& points) {
+
         int n = points.size();
 
-        parent.resize(n);
-        rank.resize(n,0);
-        for(int i = 0; i < n; i++){
-            parent[i] = i;
-        }
+        vector<bool> visited(n, false);
 
-        vector<vector<int>>edges;
-        for(int i = 0; i < n; i++){
-            for(int j = i + 1; j < n; j++){
-                int weights =abs(points[i][0] - points[j][0]) +
-                             abs(points[i][1] - points[j][1]);
+        priority_queue<pair<int,int>,
+                       vector<pair<int,int>>,
+                       greater<pair<int,int>>> pq;
 
-                edges.push_back({weights,i , j} );
-            }
-        }
+        pq.push({0,0});
 
-        sort(edges.begin(), edges.end());
         int cost = 0;
-        int edgeUsed = 0;
+        int edgesUsed = 0;
 
-        for(auto &edge : edges){
-            int weight = edge[0];
-            int u = edge[1];
-            int v = edge[2];
+        while(!pq.empty() && edgesUsed < n){
 
-            if(Union(u,v)){
-                cost += weight;
-                edgeUsed++;
+            auto [weight, u] = pq.top();
+            pq.pop();
 
-                if(edgeUsed == n-1)
-                break;
+            if(visited[u])
+                continue;
+
+            visited[u] = true;
+            cost += weight;
+            edgesUsed++;
+
+            for(int v = 0; v < n; v++){
+
+                if(!visited[v]){
+
+                    int newWeight =
+                        abs(points[u][0] - points[v][0]) +
+                        abs(points[u][1] - points[v][1]);
+
+                    pq.push({newWeight, v});
+                }
             }
-
-            
         }
+
         return cost;
     }
 };
