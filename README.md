@@ -25,6 +25,7 @@
 | [0704-binary-search](https://github.com/vish-34/Leetcode-Qns/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/vish-34/Leetcode-Qns/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/vish-34/Leetcode-Qns/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/vish-34/Leetcode-Qns/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/vish-34/Leetcode-Qns/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/vish-34/Leetcode-Qns/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/vish-34/Leetcode-Qns/tree/master/0973-k-closest-points-to-origin) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vish-34/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/vish-34/Leetcode-Qns/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/vish-34/Leetcode-Qns/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
