@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vish-34/Leetcode-Qns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vish-34/Leetcode-Qns/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/vish-34/Leetcode-Qns/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/vish-34/Leetcode-Qns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vish-34/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/vish-34/Leetcode-Qns/tree/master/0162-find-peak-element) |
@@ -64,6 +65,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/vish-34/Leetcode-Qns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vish-34/Leetcode-Qns/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vish-34/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -250,6 +252,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/vish-34/Leetcode-Qns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/vish-34/Leetcode-Qns/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vish-34/Leetcode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
