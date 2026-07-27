@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/vish-34/Leetcode-Qns/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/vish-34/Leetcode-Qns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/vish-34/Leetcode-Qns/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vish-34/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/vish-34/Leetcode-Qns/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vish-34/Leetcode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -68,6 +69,7 @@
 | [0063-unique-paths-ii](https://github.com/vish-34/Leetcode-Qns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vish-34/Leetcode-Qns/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/vish-34/Leetcode-Qns/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vish-34/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vish-34/Leetcode-Qns/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/vish-34/Leetcode-Qns/tree/master/0542-01-matrix) |
