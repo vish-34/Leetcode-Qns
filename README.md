@@ -24,6 +24,7 @@
 | [0322-coin-change](https://github.com/vish-34/Leetcode-Qns/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vish-34/Leetcode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vish-34/Leetcode-Qns/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vish-34/Leetcode-Qns/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/vish-34/Leetcode-Qns/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/vish-34/Leetcode-Qns/tree/master/0643-maximum-average-subarray-i) |
@@ -75,6 +76,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vish-34/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vish-34/Leetcode-Qns/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/vish-34/Leetcode-Qns/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vish-34/Leetcode-Qns/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/vish-34/Leetcode-Qns/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/vish-34/Leetcode-Qns/tree/master/0746-min-cost-climbing-stairs) |
@@ -290,4 +292,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vish-34/Leetcode-Qns/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
