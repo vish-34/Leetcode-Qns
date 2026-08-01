@@ -80,6 +80,7 @@
 | [0518-coin-change-ii](https://github.com/vish-34/Leetcode-Qns/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/vish-34/Leetcode-Qns/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/vish-34/Leetcode-Qns/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/vish-34/Leetcode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/vish-34/Leetcode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vish-34/Leetcode-Qns/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/vish-34/Leetcode-Qns/tree/master/0721-accounts-merge) |
+| [1143-longest-common-subsequence](https://github.com/vish-34/Leetcode-Qns/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vish-34/Leetcode-Qns/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
 |  |
