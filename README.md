@@ -72,6 +72,7 @@
 | [0063-unique-paths-ii](https://github.com/vish-34/Leetcode-Qns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/vish-34/Leetcode-Qns/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/vish-34/Leetcode-Qns/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/vish-34/Leetcode-Qns/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vish-34/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vish-34/Leetcode-Qns/tree/master/0198-house-robber) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vish-34/Leetcode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vish-34/Leetcode-Qns/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/vish-34/Leetcode-Qns/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/vish-34/Leetcode-Qns/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vish-34/Leetcode-Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vish-34/Leetcode-Qns/tree/master/0567-permutation-in-string) |
