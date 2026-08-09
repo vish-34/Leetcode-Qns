@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/vish-34/Leetcode-Qns/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/vish-34/Leetcode-Qns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/vish-34/Leetcode-Qns/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/vish-34/Leetcode-Qns/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vish-34/Leetcode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vish-34/Leetcode-Qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -305,9 +306,14 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vish-34/Leetcode-Qns/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vish-34/Leetcode-Qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vish-34/Leetcode-Qns/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
