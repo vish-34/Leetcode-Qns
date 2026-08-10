@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vish-34/Leetcode-Qns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vish-34/Leetcode-Qns/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/vish-34/Leetcode-Qns/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/vish-34/Leetcode-Qns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0064-minimum-path-sum) |
@@ -306,6 +307,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vish-34/Leetcode-Qns/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/vish-34/Leetcode-Qns/tree/master/0494-target-sum) |
 ## Greedy
