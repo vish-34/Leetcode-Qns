@@ -48,6 +48,7 @@
 | [1020-number-of-enclaves](https://github.com/vish-34/Leetcode-Qns/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/vish-34/Leetcode-Qns/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vish-34/Leetcode-Qns/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/vish-34/Leetcode-Qns/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/vish-34/Leetcode-Qns/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/vish-34/Leetcode-Qns/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
@@ -92,6 +93,7 @@
 | [0542-01-matrix](https://github.com/vish-34/Leetcode-Qns/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/vish-34/Leetcode-Qns/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/vish-34/Leetcode-Qns/tree/master/1143-longest-common-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/vish-34/Leetcode-Qns/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | [0347-top-k-frequent-elements](https://github.com/vish-34/Leetcode-Qns/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/vish-34/Leetcode-Qns/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/vish-34/Leetcode-Qns/tree/master/0973-k-closest-points-to-origin) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/vish-34/Leetcode-Qns/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## String
 |  |
 | ------- |
